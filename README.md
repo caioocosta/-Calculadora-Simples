@@ -13,10 +13,12 @@ este é um projeto iniciante para uma calculadora de contas simples.
 
 
 
-#include <stdio.h>
-#include <stdlib.h>
+  #include <stdio.h>
+  
+  #include <stdlib.h>
 
 int main() {
+   
     char operacao;
     double num1, num2, resultado;
     int continuar = 1;
